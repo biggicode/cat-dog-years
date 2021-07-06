@@ -7,4 +7,5 @@ export const StyledApp = styled.div`
   justify-content: center;
   min-height: 100vh;
   color: white;
+  flex-direction: column;
 `
